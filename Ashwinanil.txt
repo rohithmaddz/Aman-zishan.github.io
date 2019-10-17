@@ -1,0 +1,2 @@
+//m printing hello world in java
+System.out.print("hello world");
